@@ -1,0 +1,4 @@
+rootProject.name = "Jumprope Complete"
+include ':app'
+include ':domain'
+include ':androiddata'
